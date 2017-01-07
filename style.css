@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 815px;
+}
+
+.canvas {
+    border-style: solid;;
+    border-color: white;
+    padding: 5px;
+    background-color: black;
+}
+
+#score {
+    color: yellow;
+    float: right;
+}
